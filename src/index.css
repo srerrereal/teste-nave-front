@@ -1,0 +1,94 @@
+body {
+  background-color: #F0F0F0;
+
+}
+#navbar{
+  height: 60px;
+  left: 0;
+  top: 0;
+  border-radius: 0;
+
+  background: #000000;
+  /* Shadow/Small */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+#logo-style{
+  width: 128px;
+  height: 32px;
+  left: 32px;
+  top: 14px;
+
+}
+#login-area{
+  margin: auto;
+  width: 304px;
+  height: 320px;
+
+  top: 200px;
+
+  background: #FFFFFF;
+  /* Shadow/Small */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+.btn-style{
+  width: 256px;
+  height: 36px;
+  font-family: Roboto, serif;
+  font-weight: 500;
+  background: #000000 !important;
+  /* Shadow/Small */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  color: #FFFFFF !important;
+  margin-top: 10px;
+}
+
+.btn-signup{
+  width: 256px;
+  height: 36px;
+  font-family: Roboto, serif;
+  font-weight: 500;
+  background: #000000 !important;
+  /* Shadow/Small */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  color: #FFFFFF !important;
+  margin-top: 10px;
+}
+
+.title-style{
+  /* H4 (24px) */
+  font-family: Roboto, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  padding: 20px;
+
+}
+#signup-area{
+  width: 960px;
+  height: 448px;
+  margin: auto;
+  top: 84px;
+  text-align: left;
+
+  background: #FFFFFF;
+  /* Shadow/Small */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+#job-section{
+margin: auto;
+  width: 800px;
+  height: 500px;
+  top: 36px;
+  text-align: center;
+
+  background: #FFFFFF;
+  /* Shadow/Small */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+
+}
